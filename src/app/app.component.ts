@@ -2,7 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: `<div class="container">
+  template: `
+  <header><h1>{{title}}</h1></header>
+  <div class="container">
   <div class="gallery">
       <figure class="gallery__item gallery__item--1">
           <img src="../assets/img/image-1.jpg" alt="Gallery image 1" class="gallery__img">
@@ -23,7 +25,8 @@ import { Component } from '@angular/core';
           <img src="../assets/img/image-6.jpg" alt="Gallery image 6" class="gallery__img">
       </figure>
   </div>
-</div>`,
+</div>
+<footer> </footer>`,
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {

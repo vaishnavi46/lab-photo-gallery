@@ -1,4 +1,4 @@
-# DE | Angular Introduction
+# PROGRAD - LABS | Angular Introduction - Photo Gallery
 
 
 
@@ -36,9 +36,10 @@ All the files in the these folders provided in the starter code, with the necess
 
 In this lesson we are going to work with Angular for the first time. The goal here is to work on three small projects where you can practice the concepts we've learned thus far.
 
-### Starter Code
+## Starter Code
 
-This lesson is composed of three iterations. In each iteration, we will complete a small, independent project. In the first iteration, we provide you the basic skeleton of the app, while in the other two iterations, you will have to create it.
+Once you have cloned the project, 
+
 
 ## PROGRESSION #1: Photo Gallery
 

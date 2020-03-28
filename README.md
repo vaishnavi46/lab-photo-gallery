@@ -1,27 +1,51 @@
-# LabPhotoGallery
+# DE | Angular Introduction
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Learning Goals
 
-## Code scaffolding
+After this lesson, you will be able to:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Create a static Angular application with Angular CLI.
+- Build an Angular application with one component.
 
-## Build
+## Requirements
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Fork this repo.
+- Clone this repo.
 
-## Running unit tests
+## Submission
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Upon completion, run the following commands:
 
-## Running end-to-end tests
+```bash
+$ git add .
+$ git commit -m "done"
+$ git push origin master
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Navigate to your repo and create a pull request from your master branch to the original repository's master branch.
 
-## Further help
+In the pull request name, add your Prograd id, name, and last name separated by a dash "-".
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Deliverables
+
+All the files in the these folders provided in the starter code, with the necessary code to satisfy the requirements described below.
+
+## Introduction
+
+In this lesson we are going to work with Angular for the first time. The goal here is to work on three small projects where you can practice the concepts we've learned thus far.
+
+### Starter Code
+
+This lesson is composed of three iterations. In each iteration, we will complete a small, independent project. In the first iteration, we provide you the basic skeleton of the app, while in the other two iterations, you will have to create it.
+
+## PROGRESSION #1: Photo Gallery
+
+In the first iteration we are going to build a photo album. Imagine you have an album at home. On it, you can find a photo and its description. This is what we are going to build.
+
+We will build this album in the `AppComponent` component. The album will have three photos and their descriptions, and **it's not necessary to have an array to store these values**.
+
+Easy, right? Add some styles to the page to give your photo album a little flair!
+
+/Happy coding!

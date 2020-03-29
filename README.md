@@ -38,15 +38,31 @@ In this lesson we are going to work with Angular for the first time. The goal he
 
 ## Starter Code
 
-Once you have cloned the project, 
+To generate the starter code, follow the steps given below
+
+- To create a new application,
+    - Open your ubuntu or cmd terminal and execute the following command
+      - ```ng new app-name```
+      - for example, ng new super-wars
+    - To create a new component, execute the command 
+      - ``` ng generate component component-name```
+      - example, ng generate component contacts
+      
+## How to run
+
+- To run the project go to your ubuntu terminal or VScode editor
+    - open the ubuntu or cmd terminal or inside the vscode editor
+    - run the command following command
+    - ```ng serve --open or ng serve -o```
 
 
-## PROGRESSION #1: Photo Gallery
+## PROGRESSION #1: PHOTO GALLERY
 
 In the first iteration we are going to build a photo album. Imagine you have an album at home. On it, you can find a photo and its description. This is what we are going to build.
 
 We will build this album in the `AppComponent` component. The album will have three photos and their descriptions, and **it's not necessary to have an array to store these values**.
 
 Easy, right? Add some styles to the page to give your photo album a little flair!
+
 
 /Happy coding!

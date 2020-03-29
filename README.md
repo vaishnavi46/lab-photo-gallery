@@ -60,9 +60,9 @@ To generate the starter code, follow the steps given below
 
 ## PROGRESSION #1: PHOTO GALLERY
 
-In the first progression we are going to build a photo album. Imagine you have an album at home. On it, you can find a photo and its description. This is what we are going to build.
+In the first progression we are going to build a photo album. Imagine you have an album at home. On it, you can find a photo by yourself or you can use the images given inside the src/assets folder. This is what we are going to build.
 
-We will build this album in the `AppComponent` component. The album will have three photos and their descriptions, and **it's not necessary to have an array to store these values**.
+We will build this album in the `AppComponent` component. The album will have mutilple photos, and **it's not necessary to have an array to store these values**.
 
 Easy, right? Add some styles to the page to give your photo album a little flair!
 

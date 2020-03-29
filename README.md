@@ -1,4 +1,6 @@
-# PROGRAD - LABS | Angular Introduction - Photo Gallery
+![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
+
+# ProGrad Lab | Angular Introduction - Photo Gallery
 
 
 
@@ -30,11 +32,11 @@ In the pull request name, add your Prograd id, name, and last name separated by 
 
 ## Deliverables
 
-All the files in the these folders provided in the starter code, with the necessary code to satisfy the requirements described below.
+You need to generate the starter code and fill it with the necessary code to satisfy the requirements described below.
 
 ## Introduction
 
-In this lesson we are going to work with Angular for the first time. The goal here is to work on three small projects where you can practice the concepts we've learned thus far.
+In this lesson we are going to work with Angular for the first time. The goal here is to work on a small projects where you can practice the concepts we've learned thus far.
 
 ## Starter Code
 

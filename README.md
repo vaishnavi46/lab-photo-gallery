@@ -60,11 +60,16 @@ To generate the starter code, follow the steps given below
 
 ## PROGRESSION #1: PHOTO GALLERY
 
-In the first iteration we are going to build a photo album. Imagine you have an album at home. On it, you can find a photo and its description. This is what we are going to build.
+In the first progression we are going to build a photo album. Imagine you have an album at home. On it, you can find a photo and its description. This is what we are going to build.
 
 We will build this album in the `AppComponent` component. The album will have three photos and their descriptions, and **it's not necessary to have an array to store these values**.
 
 Easy, right? Add some styles to the page to give your photo album a little flair!
 
+## PROGRESSION #2: HEADER and FOOTER (Optional)
+In the second progression we are going to generate two component header and footer. Have the page heading inside the header part and the 
+'Made with by ❤️ ProGrads' in the footer part
 
-/Happy coding!
+
+
+/Happy Coding ProGrad ❤️
